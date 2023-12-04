@@ -23,3 +23,6 @@ Password : admin123
 - Lalu jalankan dengan `localhost/penggajian-dosen`
 - Untuk Login anda bisa merubah username dan passwordnya sendiri dari database, untuk passwordnya menggunakan hash bcrypt
 ---
+
+
+![Flowchart Penggajian Dosen drawio](https://github.com/nayonopal/Penggajian/assets/133036426/2a41cf55-7643-40fb-b92c-8a413c4bcedd)
