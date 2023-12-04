@@ -1,9 +1,4 @@
 # Gaji-rev(Sistem Penggajian Dosen)
-
-Program ini adalah tugas akhir PKL Hafiz Caniago yang boleh anda download untuk referensi atau pembelajaran.
-
-> Program ini gratis dan sudah termasuk dengan databasenya.
-
 ---
 ### Feature
 - [x] Login with 2 Role Auth
