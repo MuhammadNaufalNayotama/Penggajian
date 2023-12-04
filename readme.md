@@ -1,5 +1,8 @@
 # Gaji-rev(Sistem Penggajian Dosen)
 ---
+Muhammad Naufal Nayotama
+12030122130193
+Sistem Informasi Akuntansi kelas "A"
 ### Feature
 - [x] Login with 2 Role Auth
 - [x] CRUD Data Dosen
