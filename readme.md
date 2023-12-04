@@ -20,6 +20,6 @@ Password : admin123
 
 - Import `db_gaji_rev` kedalam PHPMyadmin.
 - Konfigurasikan file `config.php` sesuai dengan database anda.
-- Lalu jalankan dengan `localhost/gaji-rev`
+- Lalu jalankan dengan `localhost/penggajian-dosen`
 - Untuk Login anda bisa merubah username dan passwordnya sendiri dari database, untuk passwordnya menggunakan hash bcrypt
 ---
