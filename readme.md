@@ -26,3 +26,5 @@ Password : admin123
 
 
 ![Flowchart Penggajian Dosen drawio](https://github.com/nayonopal/Penggajian/assets/133036426/2a41cf55-7643-40fb-b92c-8a413c4bcedd)
+![image](https://github.com/nayonopal/Penggajian/assets/133036426/2da6f962-9524-493c-a976-b8f5220c9a30)
+
